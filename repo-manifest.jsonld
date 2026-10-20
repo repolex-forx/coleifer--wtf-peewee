@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/coleifer/wtf-peewee/commit/d75c7cbc4edab7ad58fe28d691f80cbfe920f82a",
       "git:hexsha": "d75c7cbc4edab7ad58fe28d691f80cbfe920f82a",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/coleifer/wtf-peewee/commit/877b5e820396ecea72e596c795e8dc951d843627",
